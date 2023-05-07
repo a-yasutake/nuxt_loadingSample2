@@ -18,7 +18,7 @@
     "@nuxtjs/axios": "^5.8.0",
     "@types/jquery": "^3.3.31",
     "@types/jquery.validation": "^1.16.6",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jquery-ui": "^1.12.1",
     "jquery-validation": "^1.19.1",
     "musubii": "^6.6.0",
@@ -42,7 +42,7 @@
     "eslint-plugin-nuxt": ">=0.4.2",
     "jest": "^24.1.0",
     "jquery-validation": "^1.19.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "vue-jest": "^4.0.0-0"
   }
 }
